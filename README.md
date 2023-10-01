@@ -136,6 +136,8 @@ En este análisis exploratorio de datos, hemos realizado las siguientes observac
 ----
 
 A raíz de estas conclusiones que hemos obtenido y con el objetivo de reducir la gravedad de los accidentes de tránsito, se proponen los siguientes indicadores clave de desempeño (KPIs):
+(https://github.com/gomezgaston/Accidentes_CABA/blob/main/video/dashboard%20KPI.mp4)
+
 ![INSERTAR DASHBOARD 2](https://github.com/gomezgaston/Accidentes_CABA/blob/main/imagenes/dash%202.png)
 ##### dashboard KPI
 ### 1. Reducción de la Tasa de Homicidios en Siniestros Viales
