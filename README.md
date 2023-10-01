@@ -136,9 +136,10 @@ En este análisis exploratorio de datos, hemos realizado las siguientes observac
 ----
 
 A raíz de estas conclusiones que hemos obtenido y con el objetivo de reducir la gravedad de los accidentes de tránsito, se proponen los siguientes indicadores clave de desempeño (KPIs):
-(https://github.com/gomezgaston/Accidentes_CABA/blob/main/video/dashboard%20KPI.mp4)
 
-![INSERTAR DASHBOARD 2](https://github.com/gomezgaston/Accidentes_CABA/blob/main/imagenes/dash%202.png)
+
+https://github.com/gomezgaston/Accidentes_CABA/assets/134027158/c6c17e1f-e1b5-4d25-90ea-041d30aca881
+
 ##### dashboard KPI
 ### 1. Reducción de la Tasa de Homicidios en Siniestros Viales
 - **Objetivo**: Reducir en un 10% la tasa de homicidios en siniestros viales en los últimos seis meses, en la Ciudad Autónoma de Buenos Aires (CABA), en comparación con la tasa del semestre anterior.
@@ -162,7 +163,6 @@ A raíz de estas conclusiones que hemos obtenido y con el objetivo de reducir la
 
 Estos KPIs se diseñaron con el objetivo de medir y mejorar la seguridad vial en la Ciudad Autónoma de Buenos Aires, proporcionando métricas clave para evaluar el desempeño y la efectividad de las medidas de prevención y seguridad implementadas.
 
-## Etapa de conclusiones.
 
 ![INSERTAR DASH 3](https://github.com/gomezgaston/Accidentes_CABA/blob/main/imagenes/dash%203.png)
 ### Datos
